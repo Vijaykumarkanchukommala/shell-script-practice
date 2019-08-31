@@ -4,5 +4,7 @@ git add . -A
 git commit -m $commit_message
 git push
 
-echo "vijaykumarkanchukommala"
-echo "vijaykumaR@09111995@jaY"
+#echo "vijaykumarkanchukommala"
+#echo "vijaykumaR@09111995@jaY"
+
+printf '%s\n' "vijaykumarkanchukommala" "vijaykumaR@09111995@jaY"
