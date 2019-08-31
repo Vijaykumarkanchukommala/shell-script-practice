@@ -1,1 +1,1 @@
-printf '%s\n' "vijaykumarkanchukommala" "vijaykumaR@09111995@jaY"
+printf 'vijaykumarkanchukommala\nvijaykumaR@09111995@jaY' 
