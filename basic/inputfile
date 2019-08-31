@@ -1,1 +1,2 @@
-printf 'vijaykumarkanchukommala\nvijaykumaR@09111995@jaY' 
+spawn ./5.gitcommit.sh
+
