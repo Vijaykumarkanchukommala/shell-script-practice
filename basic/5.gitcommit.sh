@@ -5,4 +5,4 @@ git commit -m $commit_message
 git push
 
 echo "vijaykumarkanchukommala"
-vijaykumaR@09111995@jaY
+echo "vijaykumaR@09111995@jaY"
