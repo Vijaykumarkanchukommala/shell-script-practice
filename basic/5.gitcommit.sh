@@ -7,4 +7,4 @@ git push
 #echo "vijaykumarkanchukommala"
 #echo "vijaykumaR@09111995@jaY"
 
-printf '%s\n' "vijaykumarkanchukommala" "vijaykumaR@09111995@jaY"
+#printf '%s\n' "vijaykumarkanchukommala" "vijaykumaR@09111995@jaY"
